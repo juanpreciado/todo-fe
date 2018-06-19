@@ -24,7 +24,7 @@ Install dependencies and start service
 
 API will start in  localhost:8008, and will use a test db on https://mlab.com/databases/todo-juanpreciado#users
 
-#### Getting starte with API
+#### Getting starte with FE
 
 Getting
 
